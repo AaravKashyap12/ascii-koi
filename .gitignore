@@ -1,0 +1,7 @@
+node_modules/
+dist/
+scratch/
+references/
+delivery/
+REVIEW-CHECKLIST.md
+.DS_Store
